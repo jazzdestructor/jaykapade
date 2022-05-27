@@ -2,11 +2,11 @@
 
 ### And I Love Developing and Making Stuff
 
-- 🔭 I’m currently working at infosys as a Systems Engineer
-- 🌱 I’m currently learning to be a better Developer (Current Level: 🐒)
-- 👯 I’m looking to collaborate with other content creators
+- 🔭 Currently working at [Coditas](https://coditas.com) as a Software Engineer
+- 🌱 Currently learning to be a better Developer (Current Level: 🐒)
+- 👯 Looking to collaborate with other content creators
 - 🥅 Forever Goals: Learn about new technologies.
-- ⚡ Fun fact: I like making 2D and 3D Digital Art and Sleeping 😴😴😴
+- ⚡ Fun fact: I like making 2D and 3D Digital Art, Coding and Sleeping 😴😴😴
 
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
